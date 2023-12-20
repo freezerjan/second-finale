@@ -1,0 +1,72 @@
+.heading {
+    height: 900px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: darkgoldenrod;
+    font-size: 50px;
+    margin: 5px;
+}
+
+.heading p {
+    color: darkgreen;
+    font-size: 20px;
+    margin: 0;
+}
+
+a {
+    color: lightgray;
+    background-color: darkgreen;
+    border-radius: 50px;
+}
+
+.down {
+    background-color: darkgreen;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.konets {
+    background-color:darkgreen;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block {
+    padding: 10px;
+    margin: 50px;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+.tablet {
+    background-color: lightgray;
+    padding: 35px;
+}
+.cost {
+    background-color: lightgray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cost1{
+    background-color: darkgreen;
+    margin: 20px;
+    border: 1cqh solid darkgreen;
+    border-radius: 30px;
+    color: darkgoldenrod;
+}
+table {
+    margin: 50px;
+}
